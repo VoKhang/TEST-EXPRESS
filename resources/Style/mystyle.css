@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(243, 243, 242);
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    width:100%;
+    position: absolute;;
+    
+}
+
+        .topNavg {
+            background-color:rgba(238, 181, 36, 0.77) ;
+            height: 40px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            
+
+        }
+            .topNavg img {
+                width: 34px;
+                height: 34px;
+                border-radius: 65%;
+            }
+
+           .topNavg01 {
+                width: 150px;
+                display: flex;
+                justify-content: space-between;
+           }
